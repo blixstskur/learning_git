@@ -6,4 +6,3 @@ simple readmefile to test and learn git.
 Edit 1
 Edit2
 Adding an extra comment
-	run this to test how diff works
