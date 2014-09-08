@@ -5,6 +5,8 @@ simple readmefile to test and learn git.
 
 Hej
 
+Detta är ett mergingtest
+
 Edit 1
 Adding an extra comment
 
