@@ -6,9 +6,6 @@ simple readmefile to test and learn git.
 Hej
 
 Edit 1
-Edit2
 Adding an extra comment
-
-Hej
 
 Test
